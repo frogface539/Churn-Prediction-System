@@ -1,9 +1,5 @@
-tensorflow>=2.11,<2.16
+tensorflow==2.12.0
+streamlit
 scikit-learn
 pandas
 numpy
-joblib
-streamlit
-ipykernel
-matplotlib
-seaborn
